@@ -10,14 +10,20 @@
 
 - MERN STACK DEVELOPMENT
 
-- ANDROID & IOS APPLICATION DEVELOPMENT <br> <br>
+- ANDROID & IOS APPLICATION DEVELOPMENT <br> <br> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iqranaz240&label=Profile%20views&color=0e75b6&style=flat" alt="UroojNaaz" /> </p>
 
-<!-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/uroojnaz20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="UroojNaaz" height="30" width="40" /></a> <br> <br>
+<!--   
+<a href="https://www.linkedin.com/in/uroojnaz20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="linked" alt="uroojnaz20" height="30" width="40" /></a> 
 -->
-
+<a href="https://github.com/UroojNaaz" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="UroojNaaz20" height="40" width="40" /></a> 
+<a href="https://www.hackerrank.com/profile/uroojnaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" title="hackerrank" alt="uroojnaz" height="35" width="40" /></a>
+<a href="https://www.behance.net/uroojnaz2" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" title="behance" alt="uroojnaz2" height="35" width="40" /></a>
+</p>
+<br> 
 ### :hammer_and_wrench:Languages and Tools: 
 <div id="icons" align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="60"/>&nbsp;
