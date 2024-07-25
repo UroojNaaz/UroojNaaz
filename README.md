@@ -10,12 +10,15 @@
 
 - MERN STACK DEVELOPMENT
 
-- ANDROID & IOS APPLICATION DEVELOPMENT <br> <br> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iqranaz240&label=Profile%20views&color=0e75b6&style=flat" alt="UroojNaaz" /> </p>
+- ANDROID & IOS APPLICATION DEVELOPMENT <br> <br>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=UroojNaaz&label=Profile%20views&color=0e75b6&style=flat" alt="UroojNaaz" /> </p>
 
 
-<h3 align="left">Connect with me:</h3>
+
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
+  
 <!--   
 <a href="https://www.linkedin.com/in/uroojnaz20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="linked" alt="uroojnaz20" height="30" width="40" /></a> 
 -->
@@ -23,7 +26,7 @@
 <a href="https://www.hackerrank.com/profile/uroojnaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" title="hackerrank" alt="uroojnaz" height="35" width="40" /></a>
 <a href="https://www.behance.net/uroojnaz2" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" title="behance" alt="uroojnaz2" height="35" width="40" /></a>
 </p>
-<br> 
+<br>
 
 ### :hammer_and_wrench:Languages and Tools: 
 <div id="icons" align="left">
@@ -56,8 +59,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="netlify" width="55" height="55"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="vercel" width="75" height="65"/>
-</div><br> <br>  
-
-
+</div><br> <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UroojNaaz&show_icons=true&locale=en&layout=compact" alt="UroojNaaz" /></p>
-
+<br>
