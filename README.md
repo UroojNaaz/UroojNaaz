@@ -1,3 +1,6 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=UroojNaaz&label=Profile%20views&color=0e75b6&style=flat" alt="UroojNaaz" /> </p>
+
+
 <h1 align="center">Hi 👋, I'm Urooj Naz</h1>
 <h3 align="center">I'm a MERN Stack and Flutter App Developer with a passion for building innovative, user-friendly Web and Mobile Applications focused on Scalability and performance. Constantly exploring new Technologies to create cutting-edge solutions.</h3> <br> 
 
@@ -10,25 +13,26 @@
 
 - MERN STACK DEVELOPMENT
 
-- ANDROID & IOS APPLICATION DEVELOPMENT <br> <br>
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=UroojNaaz&label=Profile%20views&color=0e75b6&style=flat" alt="UroojNaaz" /> </p>
-
-
+- ANDROID & IOS APPLICATION DEVELOPMENT <br> 
+<hr/>
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
   
 <!--   
 <a href="https://www.linkedin.com/in/uroojnaz20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="linked" alt="uroojnaz20" height="30" width="40" /></a> 
--->
-<a href="https://github.com/UroojNaaz" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="UroojNaaz20" height="40" width="40" /></a> 
+<a href="https://github.com/UroojNaaz" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="UroojNaaz20" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/uroojnaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" title="hackerrank" alt="uroojnaz" height="35" width="40" /></a>
 <a href="https://www.behance.net/uroojnaz2" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" title="behance" alt="uroojnaz2" height="35" width="40" /></a>
+-->
+
+
 </p>
 <br>
+<hr/>
 
-### :hammer_and_wrench:Languages and Tools: 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <div id="icons" align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg " title="DART" alt="DART" width="50" height="80"/>&nbsp;  
@@ -59,6 +63,26 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="netlify" width="55" height="55"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="vercel" width="75" height="65"/>
-</div><br> <br>
+</div><br>
+
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/UroojNaaz/UroojNaaz/output/github-contribution-grid-snake.svg" />
+  
+  <br/>
+</div>
+
+<br/>
+
+<hr/>
+
+<br/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UroojNaaz&show_icons=true&locale=en&layout=compact" alt="UroojNaaz" /></p>
 <br>
