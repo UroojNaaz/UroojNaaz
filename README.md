@@ -13,8 +13,8 @@
 
 - MERN STACK DEVELOPMENT
 
-- ANDROID & IOS APPLICATION DEVELOPMENT <br> 
-<hr/>
+- ANDROID & IOS APPLICATION DEVELOPMENT <br> <br> 
+
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
@@ -79,10 +79,10 @@
 
 <hr/>
 
-<br/>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UroojNaaz&show_icons=true&locale=en&layout=compact" alt="UroojNaaz" /></p>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UroojNaaz&show_icons=true&locale=en&layout=compact" alt="UroojNaaz" /></div>
 <br>
