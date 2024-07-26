@@ -65,17 +65,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="vercel" width="75" height="65"/>
 </div><br>
 
-<hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/UroojNaaz/UroojNaaz/output/github-contribution-grid-snake.svg" />
-  
-  <br/>
-</div>
-
-<br/>
 
 <hr/>
 
