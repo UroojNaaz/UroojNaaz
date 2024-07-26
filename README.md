@@ -20,11 +20,11 @@
 <p align="left">
   
 <!--   
-<a href="https://www.linkedin.com/in/uroojnaz20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="linked" alt="uroojnaz20" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/uroojnaz20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="linked" alt="uroojnaz20" height="30" width="40" /></a> -->
 <a href="https://github.com/UroojNaaz" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="UroojNaaz20" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/uroojnaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" title="hackerrank" alt="uroojnaz" height="35" width="40" /></a>
 <a href="https://www.behance.net/uroojnaz2" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" title="behance" alt="uroojnaz2" height="35" width="40" /></a>
--->
+
 
 
 </p>
