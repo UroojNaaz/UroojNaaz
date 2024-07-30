@@ -60,14 +60,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="vercel" width="75" height="65"/>
 </div><br>
 
-
-
-
-
-
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UroojNaaz&show_icons=true&locale=en&layout=compact" alt="UroojNaaz" /></div>
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UroojNaaz&show_icons=true&locale=en&layout=compact" alt="UroojNaaz" /> <br> <br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=UroojNaaz&amp;" alt="UroojNaaz">
+</div>
 <br>
+
